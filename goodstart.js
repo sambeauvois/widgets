@@ -16,7 +16,7 @@ var GoodStartWidget = zoid.create({
     queryParam: true,
     props: {
         surface: {
-            type: 'number',
+            type: 'number',// surface of appartment
             required: false,
             queryParam: true
         },
@@ -27,4 +27,4 @@ var GoodStartWidget = zoid.create({
         }
     }
 });
-// this hosting is a test while waiting for a server
+
