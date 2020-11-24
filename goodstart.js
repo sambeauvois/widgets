@@ -27,3 +27,4 @@ var GoodStartWidget = zoid.create({
         }
     }
 });
+// this hosting is a test while waiting for a server
